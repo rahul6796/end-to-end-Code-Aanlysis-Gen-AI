@@ -1,0 +1,14 @@
+sentence-transformers
+langchain
+flask
+pypdf
+langchain_community
+langchain_openai
+langchain_experimental
+GitPython
+tiktoken
+
+
+
+
+
